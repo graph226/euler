@@ -1,2 +1,2 @@
 # euler
-repository for solving project-ruler
+repository for solving project-euler
